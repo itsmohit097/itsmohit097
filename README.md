@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS, 3D animation**
 
-- 💬 Ask me about **Html,Tailwind css, Javascript, Website Design,**
+- 💬 Ask me about **Html,Tailwind css, Javascript, Website Design**
 
 - ⚡ Fun fact **I love to watch anime.**
 
